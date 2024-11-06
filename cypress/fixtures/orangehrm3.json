@@ -1,0 +1,49 @@
+
+{
+    "data": [
+        {
+            "stuff": [
+                {
+                    "onetype": [
+                        {
+                            "id": 1,
+                            "name": "Admin"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Admin"
+                        }
+                    ]
+                },
+                {
+                    "othertype": [
+                        {
+                            "id": 2,
+                            "company": "admin123"
+                        },
+                        {
+                            "id": 2,
+                            "company": "admin123"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "otherstuff": [
+                {
+                    "thing": [
+                        [
+                            1,
+                            42
+                        ],
+                        [
+                            2,
+                            2
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}
